@@ -1,4 +1,6 @@
 
+.github/.DS_Store
 .DS_Store
-README.md.meta
+/Media/*.meta
 LICENSE.meta
+README.md.meta
