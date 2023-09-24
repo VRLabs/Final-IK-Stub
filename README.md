@@ -12,7 +12,7 @@
 
 Stub package for the [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) components whitelisted by VRChat
 
-![Alt text](https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/trollcull.gif)
+![Alt text]()
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Final-IK-Stub/releases/latest)
 
