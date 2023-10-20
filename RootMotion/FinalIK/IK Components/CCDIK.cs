@@ -6,5 +6,8 @@ namespace RootMotion.FinalIK {
 	public class CCDIK : IK 
     {
 		public IKSolverCCD solver = new IKSolverCCD();
+        public void Start()
+        {
+        }
     }
 }

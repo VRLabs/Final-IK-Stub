@@ -7,5 +7,8 @@ namespace RootMotion.FinalIK {
     {
         public BipedReferences references = new BipedReferences();
 		public IKSolverFullBodyBiped solver = new IKSolverFullBodyBiped();
+        public void Start()
+        {
+        }
     }
 }

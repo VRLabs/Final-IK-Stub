@@ -6,6 +6,8 @@ namespace RootMotion.FinalIK {
 	public class TrigonometricIK : IK 
     {
         public IKSolverTrigonometric solver = new IKSolverTrigonometric();
-
-	}
+        public void Start()
+        {
+        }
+    }
 }

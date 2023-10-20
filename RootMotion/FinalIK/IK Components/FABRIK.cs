@@ -6,6 +6,9 @@ namespace RootMotion.FinalIK {
 	public class FABRIK : IK 
     {
 		public IKSolverFABRIK solver = new IKSolverFABRIK();
+        public void Start()
+        {
+        }
     }
 }
 

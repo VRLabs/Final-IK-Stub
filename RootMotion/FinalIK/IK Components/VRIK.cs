@@ -36,5 +36,9 @@ namespace RootMotion.FinalIK
 		}
 		public References references = new References();
 		public IKSolverVR solver = new IKSolverVR();
+        public void Start()
+        {
+        }
     }
+
 }

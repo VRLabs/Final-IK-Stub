@@ -11,5 +11,8 @@ namespace RootMotion.FinalIK {
 		public float rootRotationWeight;
 		public float rootRotationSpeed = 5f;
 		public float maxRootRotationAngle = 45f;
+        public void Start()
+        {
+        }
     }
 }

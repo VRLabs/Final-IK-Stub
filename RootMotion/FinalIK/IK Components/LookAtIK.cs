@@ -6,5 +6,8 @@ namespace RootMotion.FinalIK {
 	public class LookAtIK : IK 
     {
         public IKSolverLookAt solver = new IKSolverLookAt();
+        public void Start()
+        {
+        }
     }
 }

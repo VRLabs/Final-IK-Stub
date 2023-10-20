@@ -6,5 +6,8 @@ namespace RootMotion.FinalIK {
 	public class LimbIK : IK 
     {
         public IKSolverLimb solver = new IKSolverLimb();
+        public void Start()
+        {
+        }
     }
 }
