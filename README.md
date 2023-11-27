@@ -54,5 +54,3 @@ Final IK Stub is available as-is under MIT. For more information see [LICENSE](h
 [<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Twitter.png" width="50" height="50">](https://twitter.com/vrlabsdev "VRLabs")
 
 </div>
-
----
