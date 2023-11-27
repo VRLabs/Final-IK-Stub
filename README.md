@@ -25,13 +25,13 @@ Stub package for the [Final IK](https://assetstore.unity.com/packages/tools/anim
 
 ## How it works
 
-* VRChat copies all component data into a duplicate when your avatar gets loaded.
-* By using the same variable names in the stubs, the serialized information gets transferred to the duplicate component.
+* VRChat copies all component data into duplicate ones when your avatar is loaded.
+* By employing identical variable names in the stubs, the serialized information seamlessly transfers to the duplicate component.
 
 ## Additional notes
 
-* You can not use any of the Final IK components in editor as they do not have any executable code.
-* For testing in editor we highly recommend you to [buy the full software from the Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/final-ik-14290).
+* You cannot use any of the Final IK components in the editor, as they lack executable code.
+* For testing in the editor, we highly recommend purchasing the full software from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/final-ik-14290).
 
 ## Contributors
 
