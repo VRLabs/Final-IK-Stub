@@ -12,7 +12,7 @@
 
 Stub package for the [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) components whitelisted by VRChat
 
-![notdb](https://github.com/VRLabs/Final-IK-Stub/assets/76777936/5594cc63-2a2e-4afd-819e-dd65ee1b9bdf)
+![notfik](https://github.com/VRLabs/Final-IK-Stub/assets/76777936/3d80f341-b339-4496-b629-7c789216929c)
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Final-IK-Stub/releases/latest)
 
