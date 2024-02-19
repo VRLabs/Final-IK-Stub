@@ -18,8 +18,8 @@
   "unityPackageDestinationFolder": "Assets/VRLabs/Final IK Stub",
   "vccRepoCategory": "essentials",
   "media": {
-    "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Preview.webp",
-    "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Preview.webp"
+    "previewImage": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp",
+    "previewGif": "https://raw.githubusercontent.com/VRLabs/Final-IK-Stub/main/Media/Web/Preview.webp"
   },
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
