@@ -16,8 +16,8 @@ Stub package for the [Final IK](https://assetstore.unity.com/packages/tools/anim
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Final-IK-Stub/releases/latest)
 
-<!-- 
-### 📦 [Add to VRChat Creator Companion]() -->
+
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.final-ik-stub)
 
 </div>
 
